@@ -22,4 +22,4 @@ Neste projeto desenvolvido em parceria com outra estudante da Trybe, Polyana, te
 ## Autores
 
 - [Bruna Freitas](https://www.github.com/brunaCFreitas)
-- [Polyana]()
+- [Polyana Cunha](https://github.com/popocunha)
